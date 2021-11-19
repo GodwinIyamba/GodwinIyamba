@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GodwinIyamba
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development via @TheOdinProject
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me:
 
 👉🏾 [Twitter](https://twitter.com/GodwinIyamba/)
