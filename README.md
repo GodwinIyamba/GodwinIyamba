@@ -5,7 +5,7 @@
 
 👉🏾 [Twitter](https://twitter.com/GodwinIyamba/)
 
-👉🏾 [DeSo](https://diamondapp.com/u/GodwinIyamba?feedTab=Following)
+👉🏾 [Telegram](https://t.me/GodwinIyamba)
 
 <!---
 GodwinIyamba/GodwinIyamba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
