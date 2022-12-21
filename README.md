@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GodwinIyamba
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development via @TheOdinProject
+- 🌱 I’m currently learning Backend Development with the PHP framework, Laravel
 - 📫 How to reach me:
 
 👉🏾 [Twitter](https://twitter.com/GodwinIyamba/)
